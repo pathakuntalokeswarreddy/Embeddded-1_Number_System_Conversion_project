@@ -5,6 +5,8 @@ This project implements various Number System Conversions using the C programmin
 ## Features
 
 * Cross conversions between Binary, Decimal, octal and Hexa-Decimal
+* Signed to Binary using 2's Compliment Technique (8-bit)
+* Real to Binary using IEEE 754 Single Precision Format
 * Input validation for invalid digits and formats
 * Handles positive, negative, and zero values
 * Supports large numeric inputs within valid range
